@@ -20,3 +20,4 @@ def tinh_nguyen_lieu(sl_bdx, sl_btc, sl_bd):
     nguyen_lieu["đường"] = duong_hop_banh
     nguyen_lieu["đậu"] = dau_hop_banh
     return nguyen_lieu
+ 
